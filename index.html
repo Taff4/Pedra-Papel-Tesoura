@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pedra, Papel e Tesoura</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://via.placeholder.com/64x64/FFFFFF/000000?text=PPT" type="image/png">
+</head>
+<body>
+  <div class="container">
+    <h1>Pedra, Papel e Tesoura</h1>
+    <button id="start-game" class="btn-start">Iniciar Jogo</button>
+    
+    <div id="difficulty-selection" class="hidden">
+      <h2>Escolha a Dificuldade:</h2>
+      <button class="difficulty-btn" id="easy-btn">Fácil</button>
+      <button class="difficulty-btn" id="medium-btn">Médio</button>
+      <button class="difficulty-btn" id="hard-btn">Difícil</button>
+    </div>
+
+    <div id="game-area" class="hidden">
+      <p class="instructions">Escolha uma opção:</p>
+      <div class="choices">
+        <button class="choice" data-choice="pedra">
+          <i class="fas fa-hand-rock"></i>
+        </button>
+        <button class="choice" data-choice="papel">
+          <i class="fas fa-file-alt"></i>
+        </button>
+        <button class="choice" data-choice="tesoura">
+          <i class="fas fa-cut"></i>
+        </button>
+      </div>
+      <div class="results">
+        <p id="user-choice">Sua escolha: </p>
+        <p id="computer-choice">Escolha do computador: </p>
+        <h2 id="result-message"></h2>
+      </div>
+    </div>
+
+    <div id="game-over" class="hidden">
+      <h2 id="final-message"></h2>
+      <button id="restart-game" class="btn-restart">Jogar Novamente</button>
+      <button id="exit-game" class="btn-restart">Sair</button>
+    </div>
+  </div>
+
+  <div id="scoreboard" class="hidden">
+    <p id="user-score">Você: 0</p>
+    <p id="computer-score">Computador: 0</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
