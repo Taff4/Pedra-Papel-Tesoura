@@ -5,7 +5,7 @@ Bem-vindo ao jogo interativo de **Pedra, Papel e Tesoura**, um projeto simples e
 ## Demonstração ao vivo
 Jogue agora clicando no link abaixo:
 
-👉 [👉 Clique aqui para jogar!]( https://taff4.github.io/Pedra-Papel-Tesoura/)
+[👉 Clique aqui para jogar!]( https://taff4.github.io/Pedra-Papel-Tesoura/)
 ## Sobre o projeto
 
 ### Funcionalidades
