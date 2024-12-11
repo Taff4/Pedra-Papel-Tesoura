@@ -1,6 +1,3 @@
-# Pedra-Papel-Tesoura
- Jogo interativo de Pedra, Papel e Tesoura feito com HTML, CSS e JavaScript
-
  # Pedra, Papel e Tesoura
 
 Bem-vindo ao jogo interativo de **Pedra, Papel e Tesoura**, um projeto simples e divertido desenvolvido com **HTML**, **CSS** e **JavaScript**! Este repositório foi criado para aprimorar habilidades em desenvolvimento web e servir como parte do meu portfólio.
