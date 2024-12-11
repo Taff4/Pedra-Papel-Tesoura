@@ -5,8 +5,7 @@ Bem-vindo ao jogo interativo de **Pedra, Papel e Tesoura**, um projeto simples e
 ## Demonstração ao vivo
 Jogue agora clicando no link abaixo:
 
-👉 [Rodar o jogo - Pedra, Papel e Tesoura](https://taff4.github.io/Pedra-Papel-Tesoura/)
-
+👉 [👉 Clique aqui para jogar!]( https://taff4.github.io/Pedra-Papel-Tesoura/)
 ## Sobre o projeto
 
 ### Funcionalidades
@@ -77,7 +76,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 ### Autor
 **Rafael Lacerda**
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Meu LinkedIn](https://www.linkedin.com/in/rafael-lacerd)
 - [GitHub](https://github.com/Taff4)
 
 
